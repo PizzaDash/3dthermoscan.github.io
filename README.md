@@ -1,3 +1,3 @@
-# 3dthermoscan.github.io
+# 3D ThermoScan
 Webpage for the 3DThermoscan project
 Currently in testing stage
